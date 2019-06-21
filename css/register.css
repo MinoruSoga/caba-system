@@ -1,0 +1,32 @@
+body{
+    /* margin: auto; */
+    font-family: san-serif;
+    /* padding-top:auto; */
+    /* padding-bottom:40px; */
+    
+}
+.top{
+    padding-top:20%;
+}
+
+form{
+    width: 50%;
+    margin: auto;
+    
+}
+button{
+    margin-top:40px;
+}
+a{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+br{
+    margin: 0;
+    padding:0;
+}

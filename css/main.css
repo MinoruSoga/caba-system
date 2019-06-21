@@ -1,0 +1,39 @@
+form > .day{
+    display: inline !important;
+}
+
+.select{
+    cursor: pointer;
+    padding:5px;
+    border: 1px solid #434343;
+    border-radius: 5px;
+  }
+  input{
+    display: none;
+  }
+  .check_box:checked + .label {
+    background-color: blue;
+  }
+  /* .:checked + .label {
+    background-color: blue;
+  } */
+select option{
+  border: 1px solid #434343;
+    border-radius: 5px;
+    margin-bottom: .5rem;
+    padding: 5px;
+    width: 100%;
+
+
+}
+.bottle_select{
+  border: 0 !important;
+  padding: 0 !important;
+}
+/* option {
+  font-weight: normal;
+  display: block;
+  white-space: pre;
+  min-height: 1.2em;
+  padding: 0px 2px 1px;
+} */
